@@ -1,10 +1,10 @@
-import {Posts} from "./components/PostContainer/Posts/Posts";
-
+import {Launches} from "./components/LaunchContainer/Launches/Launches";
+import css from "./App.css"
 const App = () => {
 
     return (
         <div>
-            <Posts/>
+            <Launches/>
         </div>
     );
 };

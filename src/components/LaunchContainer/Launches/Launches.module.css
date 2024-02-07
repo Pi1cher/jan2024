@@ -1,0 +1,7 @@
+.Launches {
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    flex-basis: 100%;
+}
