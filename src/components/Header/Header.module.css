@@ -1,0 +1,20 @@
+.Header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50px;
+    background-color: mediumpurple;
+}
+
+.Header a{
+    text-decoration: none;
+    color: lightyellow;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.Header a:hover{
+    background-color: purple;
+    border-radius: 10px;
+    padding: 5px;
+}
