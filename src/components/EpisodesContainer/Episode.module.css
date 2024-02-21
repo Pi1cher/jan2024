@@ -1,0 +1,23 @@
+.Episode {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    width: 24%;
+    margin: 10px 0;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #00b5cc;
+    background-color: rgba(178, 223, 40, 0.49);
+    color: #014b54;
+    text-decoration: none;
+    text-align: center;
+}
+
+.Episode div{
+    border-radius: 10px;
+    width: 100%;
+}
+.Episode div:hover{
+    background-color: rgba(178, 223, 40, 0.6);
+}
